@@ -4,6 +4,6 @@ public class Test {
     public void testT() {
 
 
-        System.out.print("huy2");
+        System.out.print("huy2!!");
     }
 }
